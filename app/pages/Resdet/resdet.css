@@ -1,0 +1,589 @@
+
+  
+  .sign-up .img {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .text-wrapper {
+    position: absolute;
+    top: 2px;
+    left: 35px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #004c59;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  
+  .sign-up .frame-wrapper {
+    position: absolute;
+    width: 150px;
+    height: 22px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .frame {
+    display: inline-flex;
+    align-items: center;
+    gap: 13.04px;
+    position: relative;
+  }
+  
+  .sign-up .img-2 {
+    position: relative;
+    width: 22.36px;
+    height: 22.36px;
+  }
+  
+  .sign-up .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+
+  
+  .sign-up .cafe-restaurant {
+    position: relative;
+    width: fit-content;
+    margin-top: -24.66px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--gray-3);
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .building {
+    position: relative;
+    width: fit-content;
+    margin-right: -1.99px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--gray-3);
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-bottom: -22.8px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--gray-3);
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  
+  .sign-up .frame-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 19.56px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .sign-up .vector {
+    position: relative;
+    width: 208.65px;
+    height: 1px;
+    margin-top: -0.47px;
+  }
+  
+  .sign-up .group-wrapper {
+    position: relative;
+    width: 193.75px;
+    height: 22.36px;
+  }
+  
+  .sign-up .group-3 {
+    width: 194px;
+    height: 22px;
+  }
+  
+  .sign-up .frame-4 {
+    display: flex;
+    width: 194px;
+    align-items: center;
+    gap: 13.04px;
+    position: relative;
+  }
+  
+  .sign-up .text-wrapper-5 {
+    position: relative;
+    width: 128.54px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .vector-2 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 109px;
+    left: -4px;
+  }
+  
+ 
+  
+  .sign-up .group-5 {
+    height: 24px;
+  }
+  
+  .sign-up .iconly {
+    position: relative;
+    width: 24.22px;
+    height: 24.22px;
+  }
+  
+
+  
+  .sign-up .group-7 {
+    height: 25px;
+  }
+  
+  .sign-up .iconly-2 {
+    position: relative;
+    width: 25.15px;
+    height: 25.15px;
+  }
+  
+
+  
+  .sign-up .group-9 {
+    height: 22px;
+  }
+  
+
+  
+  .sign-up .frame-5 {
+    display: inline-flex;
+    align-items: center;
+    gap: 13.97px;
+    position: relative;
+  }
+  
+  .sign-up .iconly-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .sign-up .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .vector-7 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 790px;
+    left: 0;
+  }
+  
+  .sign-up .group-11 {
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    top: 809px;
+    left: 0;
+  }
+  
+  .sign-up .vector-8 {
+    position: absolute;
+    width: 209px;
+    height: 1px;
+    top: 849px;
+    left: 0;
+  }
+  
+  .sign-up .text-wrapper-7 {
+    position: absolute;
+    top: 458px;
+    left: 33px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #787486;
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .text-wrapper-8 {
+    position: absolute;
+    top: 494px;
+    left: 33px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: var(--gray-3);
+    font-size: 14.9px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sign-up .rectangle-2 {
+    width: 100vw;
+    height: 94px;
+    top: 0;
+    background-color: #004c59;
+    box-shadow: 0px 1px 4px #0000000d;
+    position: absolute;
+    left: 0;
+  }
+  
+  .sign-up .group-12 {
+    position: absolute;
+    width: 808px;
+    height: 44px;
+    top: 25px;
+    left: 289px;
+    background-color: #ffffff;
+    border-radius: 6px;
+  }
+  
+  .sign-up .group-13 {
+    position: relative;
+    width: 161px;
+    height: 22px;
+    top: 10px;
+    left: 17px;
+  }
+
+  
+
+  .sign-up .overlap-group-wrapper {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 2px;
+    left: 37px;
+  }
+  
+  .sign-up .overlap-2 {
+    position: relative;
+    height: 40px;
+  }
+  
+  .sign-up .notifications-none {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .overlap-group-2 {
+    position: relative;
+    width: 33px;
+    height: 31px;
+    top: 3px;
+    left: 6px;
+  }
+  
+  .sign-up .vuesax-linear {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 5px;
+    left: 0;
+  }
+  
+  .sign-up .ellipse {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 0;
+    left: 14px;
+    background-color: #f62020;
+    border-radius: 9.33px;
+    border: 1.33px solid;
+    border-color: var(--backgroundlight);
+  }
+  
+
+  .sign-up .ellipse-2 {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 3px;
+    left: 21px;
+    background-color: #f62020;
+    border-radius: 9.33px;
+    border: 1.33px solid;
+    border-color: var(--backgroundlight);
+  }
+  
+  .sign-up .overlap-3 {
+    position: absolute;
+    width: 147px;
+    height: 38px;
+    top: 0;
+    left: 99px;
+  }
+  
+  .sign-up .group-15 {
+    position: absolute;
+    width: 147px;
+    height: 24px;
+    top: 9px;
+    left: 0;
+  }
+  
+  .sign-up .vuesax-outline-arrow-2 {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    top: 1px;
+    left: 124px;
+  }
+  
+  .sign-up .group-16 {
+    position: absolute;
+    width: 56px;
+    height: 19px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .text-wrapper-11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sign-up .ellipse-3 {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 0;
+    left: 70px;
+    object-fit: cover;
+  }
+  
+  .sign-up .vuesax-linear-2 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 10px;
+    left: 0;
+  }
+  
+  .sign-up .ADCCI-LL {
+    position: absolute;
+    width: 174px;
+    height: 36px;
+    top: 29px;
+    left: 36px;
+    object-fit: cover;
+  }
+  
+  .sign-up .ministry-of-industry {
+    position: absolute;
+    width: 1051px;
+    top: 564px;
+    left: 314px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+
+  }
+  
+  .sign-up .screenshot {
+    position: absolute;
+    width: 1051px;
+    height: 328px;
+    top: 208px;
+    left: 314px;
+    object-fit: cover;
+  }
+  
+  .sign-up .frame-6 {
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 130px;
+    left: 313px;
+  }
+  
+  .sign-up .group-17 {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border: 0.5px solid;
+    border-color: #b0b0b0;
+  }
+  
+  .sign-up .overlap-group-3 {
+    position: relative;
+    width: 12px;
+    height: 12px;
+    top: 9px;
+    left: 9px;
+  }
+  
+  .sign-up .vector-9 {
+    position: absolute;
+    width: 12px;
+    height: 1px;
+    top: 5px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .sign-up .vector-10 {
+    position: absolute;
+    width: 6px;
+    height: 12px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sign-up .text-wrapper-12 {
+    position: relative;
+    width: 124px;
+    height: 20px;
+    margin-left: -5px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #050505;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sign-up .frame-7 {
+    display: flex;
+    width: 125px;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 4.5px 0px 4.5px 10.5px;
+    position: absolute;
+    top: 620px;
+    left: 314px;
+    background-color: #ececec;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
+  .sign-up .text-wrapper-13 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.5px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .frame-8 {
+    display: flex;
+    width: 118px;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 4.5px 125px 4.5px 10.5px;
+    position: absolute;
+    top: 620px;
+    left: 480px;
+    background-color: #ececec;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  
+  .sign-up .text-wrapper-14 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.5px;
+    margin-right: -34px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: 21px;
+    white-space: nowrap;
+  }
+  
+  .sign-up .the-meeting-aligns {
+    position: relative;
+    height: 380px;  
+    width: 1051px;
+    top: 670px;
+    left: 314px;
+    font-family: "SF Pro-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 15px;
+    text-align: justify;
+    letter-spacing: 0;
+    line-height: 21px;
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+.para-res{
+    font-weight: 600;
+  }
+
+.para2{
+    top: 200px;
+    position: relative;
+}  
